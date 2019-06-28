@@ -1,7 +1,7 @@
 # Ridder_SMS
 #### A SMS app that can replace the System SMS
 #### 一个可以替代系统短信应用的sms app
-![Image](https://github.com/tomridder/Ridder_SMS/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png)
+![Image](https://github.com/tomridder/Ridder_SMS/blob/master/4.png)
 
 ### 前言
 > 本文的内容主要是解析短信App Ridder_SMS 的制作流程，以及代码的具体实现，若有什么不足之处，还请提出建议，附上这个 APP 的 Github 地址 [Ridder_SMS](https://github.com/tomridder/Ridder_SMS) 欢迎大家  :heart: star 和 fork.
